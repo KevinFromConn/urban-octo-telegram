@@ -1,6 +1,6 @@
 # Horiseon Homepage
 
-Using the provided code (in both HTML and CSS), this webpage was made to be fully accessible.
+Using the provided code (in both HTML and CSS), this webpage was made to be fully accessible. I combined CSS elements where applicable, and added in missing IDs into HTML to make sure links within the webpage worked properly. I also made sure to add in ALT tags to all images included in the HTML.
 
 # Screenshot of Webpage
 
