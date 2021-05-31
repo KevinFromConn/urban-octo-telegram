@@ -4,12 +4,10 @@
     margin: 0;
 }
 
-/* applies a background color to the body of the webpage */
 body {
     background-color: #d9dcd6;
 }
 
-/* effects the header of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,7 +15,6 @@ body {
     color: #ffffff;
 }
 
-/* effects only the h1 elements in the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -89,6 +86,7 @@ p {
     background-color: #2589bd;
 }
 
+/* the properties for each class were the same, so I condensed them instead of cluttering up the code */
 .benefit-lead, .benefit-cost, .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
